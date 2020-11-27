@@ -1,1 +1,1 @@
-const testVar = "hi"
+document.querySelector("main#main").remove()
