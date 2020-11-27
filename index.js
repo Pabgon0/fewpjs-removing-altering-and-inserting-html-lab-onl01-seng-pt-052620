@@ -1,1 +1,1 @@
-// Write your code here!
+const testVar = "hi"
